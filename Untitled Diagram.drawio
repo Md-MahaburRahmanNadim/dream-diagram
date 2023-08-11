@@ -1,9 +1,356 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T04:39:16.639Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.8" etag="F8Pastpj64jcYSXVjX-2" type="github">
-  <diagram name="Page-1" id="W7DGg9wzsNFLmij3meUM">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-08-11T08:20:49.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="LsU8XjAXi-oeVH5vnq67" version="21.6.8" type="github" pages="2">
+  <diagram id="ifF3m-B-PuiLLN6FgCeH" name="Page-2">
+    <mxGraphModel dx="1900" dy="1642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sViN2HowNm0dwpbSqPc8-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1TXKt5ntbw_s7h6xAIRm-1" target="sViN2HowNm0dwpbSqPc8-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1TXKt5ntbw_s7h6xAIRm-1" value="&lt;h1&gt;wp plugin &amp;amp; theme&lt;/h1&gt;&lt;p&gt;.11 - 25 days = 15 days we have&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;so every day we need to complete &lt;/span&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;2.5&lt;/b&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt; hours of course content&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-830" width="190" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sViN2HowNm0dwpbSqPc8-2" target="sViN2HowNm0dwpbSqPc8-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-2" value="11 = 2.5 is ok?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="-375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sViN2HowNm0dwpbSqPc8-4" target="sViN2HowNm0dwpbSqPc8-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-4" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;12 = 2.5 is ok?&lt;/span&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="-375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sViN2HowNm0dwpbSqPc8-6" target="sViN2HowNm0dwpbSqPc8-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-6" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;13 = 2.5 is ok?&lt;/span&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="-375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sViN2HowNm0dwpbSqPc8-8" target="sViN2HowNm0dwpbSqPc8-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-8" value="14= 2.5 is ok?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="-235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sViN2HowNm0dwpbSqPc8-10" target="sViN2HowNm0dwpbSqPc8-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-10" value="15 = 2.5 is ok?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="595" y="-235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sViN2HowNm0dwpbSqPc8-12" target="sViN2HowNm0dwpbSqPc8-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-12" value="16 = 2.5 is ok?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="-235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sViN2HowNm0dwpbSqPc8-14" target="sViN2HowNm0dwpbSqPc8-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-14" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;17 = 2.5 is ok?&lt;/span&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="-235" width="119" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sViN2HowNm0dwpbSqPc8-16" target="sViN2HowNm0dwpbSqPc8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-16" value="18 = 2.5 is ok?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4.5" y="-235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sViN2HowNm0dwpbSqPc8-18" target="sViN2HowNm0dwpbSqPc8-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-18" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;19 = 2.5 is ok?&lt;/span&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4.5" y="-95" width="117" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sViN2HowNm0dwpbSqPc8-20" target="sViN2HowNm0dwpbSqPc8-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-20" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;20 = 2.5 is ok?&lt;/span&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-95" width="119" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sViN2HowNm0dwpbSqPc8-22" target="sViN2HowNm0dwpbSqPc8-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-22" value="&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(251, 251, 251); float: none; display: inline !important;&quot;&gt;21 &lt;br&gt;= 2.5 is ok?&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="388.5" y="-95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sViN2HowNm0dwpbSqPc8-24" target="sViN2HowNm0dwpbSqPc8-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-24" value="&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(251, 251, 251); float: none; display: inline !important;&quot;&gt;22 = 2.5 is ok?&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="584.5" y="-95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sViN2HowNm0dwpbSqPc8-26" target="sViN2HowNm0dwpbSqPc8-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-26" value="&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(251, 251, 251); float: none; display: inline !important;&quot;&gt;23 = 2.5 is ok?&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="784.5" y="-95" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sViN2HowNm0dwpbSqPc8-28" target="sViN2HowNm0dwpbSqPc8-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-28" value="&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(251, 251, 251); float: none; display: inline !important;&quot;&gt;24 = 2.5 is ok?&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="784.5" y="45" width="119" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sViN2HowNm0dwpbSqPc8-30" value="&lt;br&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; background-color: rgb(251, 251, 251); float: none; display: inline !important;&quot;&gt;25 = 2.5 is ok?&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;alhumdullah&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="45" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Page-1" id="W7DGg9wzsNFLmij3meUM">
+    <mxGraphModel dx="2017" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-1" target="TIEwiwrLoAiNmqQrnOes-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-1" value="1. wp theme &amp;amp; plugin dev(8/11 - 8/25) inshallah" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="425" y="150" as="sourcePoint" />
+            <mxPoint x="430" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-4" target="TIEwiwrLoAiNmqQrnOes-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-4" value="2. OOP magaminds (2 days max) inshallah" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-7" value="optional google slide (2h. course)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-14" target="TIEwiwrLoAiNmqQrnOes-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-14" value="elementor page builder with hasin ( 10 days max) inshallah" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-18" target="TIEwiwrLoAiNmqQrnOes-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-18" value="react js with stefen gridner ( 25 days max)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-20" target="TIEwiwrLoAiNmqQrnOes-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-20" value="html &amp;amp; css with jonas 10 days" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="765" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-22" target="TIEwiwrLoAiNmqQrnOes-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-22" target="TIEwiwrLoAiNmqQrnOes-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-22" value="jonas advance html css or max ( 15 days max)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="765" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-24" target="TIEwiwrLoAiNmqQrnOes-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-24" value="applied for job" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-27" target="TIEwiwrLoAiNmqQrnOes-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-27" value="git &amp;amp; github&lt;br&gt;( 15 days max)&amp;nbsp;&lt;br&gt;inshallah" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-29" value="tailwind css ( 10 days max)&lt;br&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="965" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-34" value="react project form jonas and smilga" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-36" target="TIEwiwrLoAiNmqQrnOes-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-36" value="database ( Imtiaz) 10 days max inshallah" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-40" value="try to create a theme &amp;amp; plugin that are accepted by wordpress.org or themeforest" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-44" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TIEwiwrLoAiNmqQrnOes-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="285" y="360" as="sourcePoint" />
+            <mxPoint x="335" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-45" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-18" target="TIEwiwrLoAiNmqQrnOes-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="260" as="sourcePoint" />
+            <mxPoint x="660" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-46" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="360" as="sourcePoint" />
+            <mxPoint x="590" y="469" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-48" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="TIEwiwrLoAiNmqQrnOes-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="485" y="220" as="sourcePoint" />
+            <mxPoint x="485" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-49" target="TIEwiwrLoAiNmqQrnOes-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-49" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Hussein Nasser ( database engineering) 25 days max inshallah&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-51" target="TIEwiwrLoAiNmqQrnOes-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-51" value="fundamental of network engineering ( 15 days max) inshalalh" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-53" target="TIEwiwrLoAiNmqQrnOes-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-53" value="fundamental of backend engineering ( 15 days max ) inshallah" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-55" target="TIEwiwrLoAiNmqQrnOes-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-55" value="discovering backend bottleneck (10 days max ) inshallah" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="765" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-57" target="TIEwiwrLoAiNmqQrnOes-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-57" value="vue js ( 42 hours course) 20 days max ) inshallah" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="965" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-59" target="TIEwiwrLoAiNmqQrnOes-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-59" value="laravel with magaminds ( 10 days max) inshallah" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="965" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-61" target="TIEwiwrLoAiNmqQrnOes-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-61" target="TIEwiwrLoAiNmqQrnOes-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-61" value="laravel 10 - Build Multi Vendor ( 125/2 = 63 max) inshallah" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="765" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-63" target="TIEwiwrLoAiNmqQrnOes-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-63" value="fullstack laravel 10 ( 15 days max)&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-65" target="TIEwiwrLoAiNmqQrnOes-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-65" value="php with laravel - create a resturant (5 days max) inshalalh" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-67" target="TIEwiwrLoAiNmqQrnOes-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-67" value="Laravel 9 - Build Complete Inventory Management System A-Z ( 15 days max) inshalalh" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-69" target="TIEwiwrLoAiNmqQrnOes-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-69" value="Laravel &amp;amp; Realtime: Build Several Realtime Apps with Laravel ( 2 days max)&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-71" target="TIEwiwrLoAiNmqQrnOes-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-71" value="&lt;div&gt;Laravel 8 - Advance Course Build School Management System&lt;/div&gt;&lt;div&gt;( 40 days max ) inshalalh&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="930" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-73" target="TIEwiwrLoAiNmqQrnOes-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-73" value="if i don&#39;t understand this than I follow this course (&amp;nbsp;Master Laravel, Vue 3 &amp;amp; Inertia Full Stack 2023&lt;br&gt;15 days max ) inshallah&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="890" width="205" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-75" value="than optional (Master Laravel 10 for Beginners &amp;amp; Intermediate 2023 ( 20 days max ) inshallah" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1007.5" y="900" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-77" target="TIEwiwrLoAiNmqQrnOes-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-77" value="&lt;div&gt;React Js With Laravel Build Complete PWA Ecommerce Project&lt;/div&gt;&lt;div&gt;40 days max inshalalh&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="945" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-79" target="TIEwiwrLoAiNmqQrnOes-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-79" target="TIEwiwrLoAiNmqQrnOes-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-79" target="TIEwiwrLoAiNmqQrnOes-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-79" value="Advanced Laravel and Vuejs - Build a Youtube clone ( 3days max ) inshalalh&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="1107.5" width="120" height="72.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-81" target="TIEwiwrLoAiNmqQrnOes-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-81" value="Start with TALL: Use Tailwind, Alpine, Laravel &amp;amp; Livewire ( 2 days max) inshallah" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="765" y="1107.5" width="120" height="112.5" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-85" target="TIEwiwrLoAiNmqQrnOes-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-85" value="Symfony 6 Framework Hands-On 2023 ( 10 day max ) inshallah" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="1266.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-87" target="TIEwiwrLoAiNmqQrnOes-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-87" value="Symfony API Platform with React Full Stack Masterclass( 20 days max ) inshallah" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="765" y="1266.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-89" value="Use Laravel to Consume APIs and Services Over HTTP ( 3 days max ) inshallah" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="965" y="1133.75" width="120" height="76.25" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-91" target="TIEwiwrLoAiNmqQrnOes-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-91" value="&lt;div&gt;React Js A-Z With Laravel - For Beginner to Advanced Level&lt;/div&gt;&lt;div&gt;(25 days max ) inshalalh&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1113.75" width="145" height="66.25" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-93" target="TIEwiwrLoAiNmqQrnOes-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-93" value="&lt;div&gt;RESTful API with Laravel: Build a Real API with Laravel&lt;/div&gt;&lt;div&gt;(10 days max)&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="127.5" y="1116.875" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TIEwiwrLoAiNmqQrnOes-95" target="TIEwiwrLoAiNmqQrnOes-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-95" value="&lt;div&gt;Facebook Clone with Laravel, TDD, Vue &amp;amp; Tailwind CSS&lt;/div&gt;&lt;div&gt;( 4 days max ) inshallah&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-72.5" y="1116.88" width="120" height="73.13" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-97" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-272.5" y="1123.4450000000002" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TIEwiwrLoAiNmqQrnOes-99" value="CodeIgniter for Beginners: Build a Complete Web Application ( 3 days max ) inshallah" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="965" y="1266.25" width="120" height="73.75" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
