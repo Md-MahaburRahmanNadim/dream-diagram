@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T09:29:51.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="G0uYEXTDOV79vUPqp1TH" version="21.6.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-08-15T09:32:57.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="XPRG-_TSa2fQK2cTC5wk" version="21.6.8" type="github" pages="3">
   <diagram id="oBR-Y0KeGlTUts13VEQX" name="pure php(8/15- 15/9)">
     <mxGraphModel dx="1900" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="wordpress theme &amp; plugin" id="W7DGg9wzsNFLmij3meUM">
+  <diagram name="html,css,js,react,vue,laravel,wp full plan" id="W7DGg9wzsNFLmij3meUM">
     <mxGraphModel dx="1900" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -357,7 +357,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="ifF3m-B-PuiLLN6FgCeH" name="Page-2">
+  <diagram id="ifF3m-B-PuiLLN6FgCeH" name="wordpress">
     <mxGraphModel dx="1900" dy="1642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
